@@ -1,2 +1,3 @@
 First habit - I completely agree with this first habit of having right posture during sitting on chair and overall keeping my body in healthy condition.
 Second habit - Get it done - this speaks for itself, just dont waste a lot of time with figuring out some small little bug.
+Third habit - Keeping lines of code as simple as possible is one of the most important things in programming to me.
