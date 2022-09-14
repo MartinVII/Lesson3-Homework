@@ -2,3 +2,4 @@ First habit - I completely agree with this first habit of having right posture d
 Second habit - Get it done - this speaks for itself, just dont waste a lot of time with figuring out some small little bug.
 Third habit - Keeping lines of code as simple as possible is one of the most important things in programming to me.
 Fourth habit - Having uninterrupted periods of time while coding is very important to think over problems I face. It helps me to solve problems much faster.
+Fifth habit - I agree, learning and practice makes perfect.
